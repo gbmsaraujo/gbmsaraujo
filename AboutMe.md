@@ -11,6 +11,6 @@ I'm always studying a lot, trying to improve my tech skills, and I want a chance
 
 You can find me on:
 
-Linkedin: https://www.linkedin.com/in/gabriel-araujo-a3421819a/?locale=en_US 
+Linkedin: https://www.linkedin.com/in/gabriel-araujo-a3421819a/
 
 Twitter: https://twitter.com/ogabzinhodev
