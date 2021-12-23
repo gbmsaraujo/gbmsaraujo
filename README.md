@@ -24,7 +24,7 @@
   
   ##
 
-Hi there 👋
+<strong> About me </strong> 😁 
 
 I'm Gabriel, 28 years old, Web Development Student and looking to grow up, learn and develop myself in a tech area. I'm searching for an opportunity to get my first job in tech area. 👩‍💻 And also, I'm finishing my chemistry graduation.👨‍🔬
 
