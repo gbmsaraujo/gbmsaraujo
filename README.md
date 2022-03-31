@@ -11,7 +11,7 @@
   <img align="center" alt="Gabe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-React" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-  <img align="center" alt="Gabe-Node" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+  <img align="center" alt="Gabe-Node" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   
 </div>
   
