@@ -1,4 +1,4 @@
-## Hey World, I'm Gabriel Araujo and I'm studying Front-End development!
+## Hey World, I'm Gabriel Araujo and I'm studying Full Stack Node.js Development!
 
 <div align="center">
   <a href="https://github.com/gbmsaraujo">
