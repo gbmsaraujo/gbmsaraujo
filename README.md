@@ -29,6 +29,6 @@
 
 <strong> About me </strong> 😁 
 
-I'm Gabriel, 29 years old, Web Development Student and looking to grow up, learn and develop myself in a tech area. I'm searching for an opportunity to get my first job in tech area. 👩‍💻 And also, I'm finishing my chemistry graduation.👨‍🔬
+I'm Gabriel, 29 years old, Frontend Engineering and looking to grow up, learn and develop myself.
 
-I consider myself a dynamic, communicative and proactive, who loves to lead projects. I always like being connected to new trends, innovating soon as possible my skills, and keeping my focus on my priorities. 🤓
+I consider myself a dynamic, communicative and proactive, who loves to lead projects, being connected to new trends and new technologies. 🤓
