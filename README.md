@@ -1,4 +1,4 @@
-## Hey World, I'm Gabriel Araujo and I'm Front-End Developer!
+## Hey World, I'm Gabriel Araujo and I'm Software Developer!
 
 <div align="center">
   <a href="https://github.com/gbmsaraujo">
