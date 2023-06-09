@@ -29,6 +29,4 @@
 
 <strong> About me </strong> 😁 
 
-I'm Gabriel, 29 years old, Frontend Engineering and looking to grow up, learn and develop myself.
-
-I consider myself a dynamic, communicative and proactive, who loves to lead projects, being connected to new trends and new technologies. 🤓
+I use the best technologies in the Javascript ecosystem such as React, Vue, Typescript and Jest. Also, I'm proficient with Sass and Tailwind preprocessor for styling. In the back-end, knowledge and skills in Node.js, Python/FastApi/Flask, MySql, ORMs like SqlAlchemy and Sequelize, Docker and Web Service like Apache and Nginx.
