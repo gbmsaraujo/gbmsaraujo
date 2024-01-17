@@ -1,6 +1,6 @@
 # Hi there! ð I'm Gabriel Araujo
 
-Passionate software developer with a knack for crafting robust solutions. I enjoy working with a variety of technologies to build innovative projects.
+Passionate Python Developer with expertise in Flask, FastApi, and a love for building scalable applications. I thrive on tackling challenges and exploring new technologies to create innovative solutions.
 
 ## ð§ Languages & Technologies
 
@@ -18,7 +18,11 @@ Passionate software developer with a knack for crafting robust solutions. I enjo
 [![Sass](https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass&logoColor=white)](https://github.com/gbmsaraujo/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/gbmsaraujo/)
 
-## ð GitHub Stats
+## ð Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmsaraujo&layout=compact&theme=radical)](https://github.com/gbmsaraujo/)
+
+## ð GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical)
 
