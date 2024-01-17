@@ -1,4 +1,4 @@
-# Hi there! ð I'm Gabriel Araujo
+# Hi there! :wave: I'm Gabriel Araujo
 
 Passionate Python Developer with expertise in Flask, FastApi, and a love for building scalable applications. I thrive on tackling challenges and exploring new technologies to create innovative solutions.
 
