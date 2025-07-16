@@ -1,44 +1,7 @@
 # 👋 Hi, I'm Gabriel Araujo
 
-<a href="---
-
-## 🛠️ Technology Stack
-
-<table>://www.linkedin.com/in/gbms  <a href="h---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmsaraujo&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>mazon.com/iam/" target="_blank"><img src="https://img.shields.io/badge/-AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
-</div> <img a---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmsaraujo&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
-
----idth="300px" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+<a href="https://www.linkedin.com/in/gbmsaraujo/">
+  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
 </a>
 
 ## 🎯 Backend Engineer with Fullstack Capabilities
@@ -48,26 +11,24 @@ I'm a **Backend & Fullstack Developer** with extensive experience building **sca
 Currently deepening my backend skills with **Golang**, exploring **concurrency patterns**, **microservices design**, and **performance-oriented architecture**.
 
 ### 💼 Professional Impact
-
--   **Enterprise Experience:** Contributed to projects for **Petrobras** and **Equinix**
--   **High-Availability Systems:** Delivered robust infrastructure solutions with strong DevOps practices
--   **Cloud-Native:** Specialized in AWS serverless architectures and Infrastructure as Code
+- **Enterprise Experience:** Contributed to projects for **Petrobras** and **Equinix**
+- **High-Availability Systems:** Delivered robust infrastructure solutions with strong DevOps practices
+- **Cloud-Native:** Specialized in AWS serverless architectures and Infrastructure as Code
 
 ### 🔄 Current Focus
-
--   **Golang:** Advanced concurrency (Goroutines & Channels) and microservices architecture
--   **Software Architecture:** Clean Architecture, Domain-Driven Design (DDD), and design patterns
--   **AWS Cloud:** Serverless solutions with AWS SAM, Lambda, API Gateway, and multi-environment deployments
--   **DevOps:** GitLab CI/CD, GitHub Actions, and automated testing with Pytest
+- **Golang:** Advanced concurrency (Goroutines & Channels) and microservices architecture
+- **Software Architecture:** Clean Architecture, Domain-Driven Design (DDD), and design patterns
+- **AWS Cloud:** Serverless solutions with AWS SAM, Lambda, API Gateway, and multi-environment deployments
+- **DevOps:** GitLab CI/CD, GitHub Actions, and automated testing with Pytest
 
 ---
 
-## �️ Technology Stack
+## 🛠️ Technology Stack
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">🔧 Backend</h3>
+      <h3 align="center">�� Backend</h3>
       <div align="center">
         <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
         <a href="https://golang.org" target="_blank"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a><br>
@@ -103,7 +64,6 @@ Currently deepening my backend skills with **Golang**, exploring **concurrency p
 </table>
 
 ### 🗄️ Databases & Message Queues
-
 <div align="center">
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -113,7 +73,6 @@ Currently deepening my backend skills with **Golang**, exploring **concurrency p
 </div>
 
 ### ⚡ AWS Services Expertise
-
 <div align="center">
   <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/-AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"></a>
   <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/-API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white"></a>
@@ -125,7 +84,7 @@ Currently deepening my backend skills with **Golang**, exploring **concurrency p
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -141,7 +100,7 @@ Currently deepening my backend skills with **Golang**, exploring **concurrency p
 ## 🔥 Recent Activity & Contributions
 
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
+<-v This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:activity-->
 
 <div align="center">
@@ -155,11 +114,10 @@ Currently deepening my backend skills with **Golang**, exploring **concurrency p
 I'm open to working on **distributed systems**, **cloud-native applications**, and **API-driven platforms** in teams that value **technical excellence** and **continuous learning**.
 
 **Interested in:**
-
--   🏗️ **Microservices Architecture** & **Event-Driven Systems**
--   ☁️ **Serverless & Cloud-Native** solutions
--   🔄 **DevOps & Automation** practices
--   🚀 **High-Performance Backend** systems
+- 🏗️ **Microservices Architecture** & **Event-Driven Systems**
+- ☁️ **Serverless & Cloud-Native** solutions  
+- 🔄 **DevOps & Automation** practices
+- 🚀 **High-Performance Backend** systems
 
 ---
 
