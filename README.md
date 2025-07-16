@@ -1,7 +1,44 @@
 # 👋 Hi, I'm Gabriel Araujo
 
-<a href="https://www.linkedin.com/in/gbmsaraujo/">
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+<a href="---
+
+## 🛠️ Technology Stack
+
+<table>://www.linkedin.com/in/gbms  <a href="h---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmsaraujo&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</div>mazon.com/iam/" target="_blank"><img src="https://img.shields.io/badge/-AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
+</div> <img a---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gbmsaraujo&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmsaraujo&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</div>
+
+---idth="300px" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
 </a>
 
 ## 🎯 Backend Engineer with Fullstack Capabilities
