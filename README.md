@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Gabriel Araujo
 
-<a href="https://www.linkedin.com/in/gbmsaraujo/">
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=gbmsaraujo&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
-</a>
-
 ## 🎯 Backend Engineer with Fullstack Capabilities
 
 I'm a **Backend & Fullstack Developer** with extensive experience building **scalable microservices**, **APIs**, and **serverless solutions**. My expertise lies in the **Python ecosystem** (FastAPI, Flask, Django), with a strong focus on **clean architecture**, **async communication** (RabbitMQ), and **automation** with Docker and Kubernetes.
